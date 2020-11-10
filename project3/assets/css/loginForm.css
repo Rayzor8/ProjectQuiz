@@ -19,7 +19,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('/project3/assets/img/bg-9.jpg')
+    background-image: url('/assets/img/bg-9.jpg');
 }
 
 
